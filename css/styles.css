@@ -1,4 +1,7 @@
 body {
-  background-color: #fff;
-  color: #2a2a2a;
+        font-size: 14px;
+        font-family: 'Roboto', sans-serif;
+        letter-spacing: 0.03em;
+        color: var(--primary-text-color);
+        background-color: var(--primary-white-color);
 }
